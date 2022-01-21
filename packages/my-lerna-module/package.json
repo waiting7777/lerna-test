@@ -3,5 +3,6 @@
   "version": "0.0.1",
   "main": "index.js",
   "author": "Wayne",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "9faf7d68014fc24b48064e84336f6a01e3c7bcc8"
 }
